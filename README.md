@@ -7,8 +7,9 @@ Skylight-Polarization-Pattern
 >REFERENCE:
 
 >
->>+ 有序列表
->>+ 有序列表
+>>\[1\]. Pomozi I, Gál J, Horváth G, et al. Fine structure of the celestial polarization pattern and its temporal change during the total solar eclipse of 11 August 1999[J]. Remote sensing of Environment, 2001, 76(2): 181-201.
+
+>>\[2\]. 有序列表
 
 <pre><code>这是一个代码区域.
 </code></pre>
