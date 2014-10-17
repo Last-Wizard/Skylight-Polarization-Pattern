@@ -1,12 +1,13 @@
 Skylight-Polarization-Pattern
 =============================
->VERSION: 1.0
+>version: 1.0
 
->LAST_UPDATE_TIME: 2014-10-16
+>last_update_time: 2014-10-16
 
->REFERENCE:
+>reference:
 
->\* Pomozi I, Gál J, Horváth G, et al. Fine structure of the celestial polarization pattern and its temporal change during the total solar eclipse of 11 August 1999[J]. Remote sensing of Environment, 2001, 76(2): 181-201.
+>
+>>\* Pomozi I, Gál J, Horváth G, et al. Fine structure of the celestial polarization pattern and its temporal change during the total solar eclipse of 11 August 1999[J]. Remote sensing of Environment, 2001, 76(2): 181-201.
 
 ###理想Rayleigh单次散射条件下的大偏振模式建模与仿真
 
