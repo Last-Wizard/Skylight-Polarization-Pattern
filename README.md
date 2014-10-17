@@ -10,7 +10,7 @@ Skylight-Polarization-Pattern
 
 ###理想Rayleigh单次散射条件下的大偏振模式建模与仿真
 
-###skylight polarization pattern based on Rayleigh model
+skylight polarization pattern based on Rayleigh model
 
 >偏振度dop: degree of polarization
 
