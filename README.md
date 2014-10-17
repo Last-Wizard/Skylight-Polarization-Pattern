@@ -6,10 +6,9 @@ Skylight-Polarization-Pattern
 
 >reference:
 
->
->>\* Pomozi I, Gál J, Horváth G, et al. Fine structure of the celestial polarization pattern and its temporal change during the total solar eclipse of 11 August 1999[J]. Remote sensing of Environment, 2001, 76(2): 181-201.
+>1. Pomozi I, Gál J, Horváth G, et al. Fine structure of the celestial polarization pattern and its temporal change during the total solar eclipse of 11 August 1999\[J\]. Remote sensing of Environment, 2001, 76(2): 181-201.
 
->>\*吴良海, 高隽, 范之国, 等. 基于复球面映射的大气偏振模式表征与分析[J]. 仪器仪表学报, 2011, 32(4): 870-876.
+>2. 吴良海, 高隽, 范之国, 等. 基于复球面映射的大气偏振模式表征与分析\[J\]. 仪器仪表学报, 2011, 32(4): 870-876.
 
 ###理想Rayleigh单次散射条件下的大偏振模式建模与仿真
 
