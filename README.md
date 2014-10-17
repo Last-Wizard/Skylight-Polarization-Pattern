@@ -1,15 +1,17 @@
 Skylight-Polarization-Pattern
 =============================
-<small> >  VERSION: 1.0</small>
+>VERSION: 1.0
 
-<small> >  LAST_UPDATE_TIME: 2014-10-16</small>
+>LAST_UPDATE_TIME: 2014-10-16
 
-<small> >  REFERENCE:</small>
+>REFERENCE:
 
-1. 有序列表
+>
+>>+ 有序列表
+>>+ 有序列表
 
-2. 由于列表
-
+<pre><code>这是一个代码区域.
+</code></pre>
 理想Rayleigh单次散射条件下的大偏振模式建模与仿真
 (skylight polarization pattern based on Rayleigh model)
 
