@@ -19,15 +19,16 @@ skylight polarization pattern based on Rayleigh model
 >偏振化方向角aop: angle of polarization
 
 ### Rayleigh 3D
->三维空间上的大气偏振模式分布 (3-dimensional)
->
+>三维空间上的大气偏振模式分布 (3-dimensional), 需要使用mayavi库
+
 >直接投影 (Rayleigh_3D_directly.py)
 
 >复平面投影 (Rayleigh_3D_complex.py)
 
+
 ### Rayleigh 2D
 >二维平面中的大气偏振模式分布 (2-dimensional)
->
+
 >直接投影 (Rayleigh_2D_directly.py)
 
 >>偏振度 dop (太阳高度角30°, 方位角45°)
