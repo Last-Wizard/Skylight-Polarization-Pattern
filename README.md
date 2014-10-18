@@ -40,6 +40,14 @@ skylight polarization pattern based on Rayleigh model
 
 >复平面投影 (Rayleigh_2D_complex.py)
 
+>>偏振度 (太阳高度角30°, 方位角45°)
+
+>>![img](https://github.com/ConanGit/gallery/blob/master/Skylight-Polarization-Pattern/img4.png)
+
+>>偏振度 (太阳高度角30°, 方位角45°)
+
+>>![img](https://github.com/ConanGit/gallery/blob/master/Skylight-Polarization-Pattern/img5.png)
+
 ###Environment
 >python 2.7.8, numpy 1.8.1, matplotlib 1.3.1, spyder 2.3.0
 
