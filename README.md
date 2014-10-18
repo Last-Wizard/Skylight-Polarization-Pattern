@@ -30,21 +30,21 @@ skylight polarization pattern based on Rayleigh model
 >
 >直接投影 (Rayleigh_2D_directly.py)
 
->>偏振度 (太阳高度角30°, 方位角45°)
+>>偏振度 dop (太阳高度角30°, 方位角45°)
 
 >>![img](https://github.com/ConanGit/gallery/blob/master/Skylight-Polarization-Pattern/img2.png)
 
->>偏振度 (太阳高度角30°, 方位角45°)
+>>偏振化方向角 aop (太阳高度角30°, 方位角45°)
 
 >>![img](https://github.com/ConanGit/gallery/blob/master/Skylight-Polarization-Pattern/img3.png)
 
 >复平面投影 (Rayleigh_2D_complex.py)
 
->>偏振度 (太阳高度角30°, 方位角45°)
+>>偏振度 aop (太阳高度角30°, 方位角45°)
 
 >>![img](https://github.com/ConanGit/gallery/blob/master/Skylight-Polarization-Pattern/img4.png)
 
->>偏振度 (太阳高度角30°, 方位角45°)
+>>偏振化方向角 aop (太阳高度角30°, 方位角45°)
 
 >>![img](https://github.com/ConanGit/gallery/blob/master/Skylight-Polarization-Pattern/img5.png)
 
