@@ -13,6 +13,7 @@ Skylight-Polarization-Pattern
 
 skylight polarization pattern based on Rayleigh model
 
+![img](https://github.com/ConanGit/gallery/blob/master/Skylight-Polarization-Pattern/img1.jpg)
 >偏振度dop: degree of polarization
 
 >偏振化方向角aop: angle of polarization
