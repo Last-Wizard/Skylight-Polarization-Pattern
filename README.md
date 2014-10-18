@@ -21,14 +21,24 @@ skylight polarization pattern based on Rayleigh model
 ### Rayleigh 3D
 >三维空间上的大气偏振模式分布 (3-dimensional)
 >
->1. 直接投影 (Rayleigh_3D_directly.py)
->2. 复平面投影 (Rayleigh_3D_complex.py)
+>直接投影 (Rayleigh_3D_directly.py)
+
+>复平面投影 (Rayleigh_3D_complex.py)
 
 ### Rayleigh 2D
 >二维平面中的大气偏振模式分布 (2-dimensional)
 >
->1. 直接投影 (Rayleigh_2D_directly.py)
->2. 复平面投影 (Rayleigh_2D_complex.py)
+>直接投影 (Rayleigh_2D_directly.py)
+
+>>偏振度 (太阳高度角30°, 方位角45°)
+
+>>![img](https://github.com/ConanGit/gallery/blob/master/Skylight-Polarization-Pattern/img2.png)
+
+>>偏振度 (太阳高度角30°, 方位角45°)
+
+>>![img](https://github.com/ConanGit/gallery/blob/master/Skylight-Polarization-Pattern/img3.png)
+
+>复平面投影 (Rayleigh_2D_complex.py)
 
 ###Environment
 >python 2.7.8, numpy 1.8.1, matplotlib 1.3.1, spyder 2.3.0
