@@ -9,6 +9,7 @@ Skylight-Polarization-Pattern
 >1. Pomozi I, Gál J, Horváth G, et al. Fine structure of the celestial polarization pattern and its temporal change during the total solar eclipse of 11 August 1999\[J\]. Remote sensing of Environment, 2001, 76(2): 181-201.
 >2. 吴良海, 高隽, 范之国, 等. 基于复球面映射的大气偏振模式表征与分析\[J\]. 仪器仪表学报, 2011, 32(4): 870-876. (in Chinese)
 >3. Radiative transfer theory [link](http://www.oceanopticsbook.info/view/radiative_transfer_theory/level_2/the_vector_radiative_transfer_equation)
+>4. Cornet C. Three-dimensional polarized Monte Carlo atmospheric radiative transfer model (3DMCPOL): 3D effects on polarized visible reflectances of a cirrus cloud[J]. Journal of Quantitative Spectroscopy and Radiative Transfer, 2010, 111(1): 174-186.
 
 ###理想Rayleigh单次散射条件下的大气偏振模式建模与仿真
 
