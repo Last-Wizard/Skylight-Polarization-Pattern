@@ -14,16 +14,19 @@ Skylight-Polarization-Pattern
 
 >skylight polarization pattern based on Rayleigh model
 
+>![img](https://github.com/ConanGit/gallery/blob/master/Skylight-Polarization-Pattern/img1.jpg)
+
 >skylight polarization pattern based on vector radiative transfer equation [link](http://www.oceanopticsbook.info/view/radiative_transfer_theory/level_2/the_vector_radiative_transfer_equation)
 
->![img](https://github.com/ConanGit/gallery/blob/master/Skylight-Polarization-Pattern/img1.jpg)
+>![img](https://github.com/ConanGit/gallery/blob/master/Skylight-Polarization-Pattern/img2.jpg)
+
 
 >偏振度dop: degree of polarization
 
 >偏振化方向角aop: angle of polarization
 
 ### Rayleigh 3D
->三维空间上的大气偏振模式分布 (3-dimensional), 需要使用mayavi库
+>三维空间上的大气偏振模式分布 (3-dimensional), 需要使用mayavi库 (mayavi library)
 
 >直接投影
 
@@ -36,21 +39,21 @@ Skylight-Polarization-Pattern
 
 >>偏振度 dop (太阳高度角30°, 方位角45°)
 
->>![img](https://github.com/ConanGit/gallery/blob/master/Skylight-Polarization-Pattern/img2.png)
+>>![img](https://github.com/ConanGit/gallery/blob/master/Skylight-Polarization-Pattern/img3.png)
 
 >>偏振化方向角 aop (太阳高度角30°, 方位角45°)
 
->>![img](https://github.com/ConanGit/gallery/blob/master/Skylight-Polarization-Pattern/img3.png)
+>>![img](https://github.com/ConanGit/gallery/blob/master/Skylight-Polarization-Pattern/img4.png)
 
 >复平面投影 (Rayleigh_2D_complex.py)
 
 >>偏振度 aop (太阳高度角30°, 方位角45°)
 
->>![img](https://github.com/ConanGit/gallery/blob/master/Skylight-Polarization-Pattern/img4.png)
+>>![img](https://github.com/ConanGit/gallery/blob/master/Skylight-Polarization-Pattern/img5.png)
 
 >>偏振化方向角 aop (太阳高度角30°, 方位角45°)
 
->>![img](https://github.com/ConanGit/gallery/blob/master/Skylight-Polarization-Pattern/img5.png)
+>>![img](https://github.com/ConanGit/gallery/blob/master/Skylight-Polarization-Pattern/img6.png)
 
 ###Environment
 >python 2.7.8, numpy 1.8.1, matplotlib 1.3.1, spyder 2.3.0
